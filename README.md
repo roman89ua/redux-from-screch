@@ -1,1 +1,0 @@
-# redux-from-screch
